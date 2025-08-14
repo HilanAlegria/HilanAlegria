@@ -11,14 +11,14 @@ Actualmente trabajo en **proyectos web**, **análisis de datos** y **optimizaci�
 - **Lenguajes:** Python, Java, HTML, CSS, JavaScript  
 - **Desarrollo Web:** HTML5, CSS3, Bootstrap, Node.js  
 - **Datos:** Análisis y visualización, Pandas, Excel avanzado  
-- **Herramientas:** Git, GitHub, VS Code, Packet Tracer  
+- **Herramientas:** Git, GitHub, VS Code, Sisco Packet Tracer, Google Colab
 - **Otros:** Manejo de plataformas y herramientas ofimáticas  
 
 ---
 
 ## 📂 Proyectos
 - **🌐 Sabor Caleño** – Página web interactiva con carrito de compras y sistema de pedidos  
-- **📊 Análisis de datos** – Procesamiento y visualización con Python  
+- **📊 Análisis de datos** – Procesamiento y visualización con Python con Google Colab
 - **📡 Topologías de red** – Diseño y simulación en Cisco Packet Tracer  
 
 ---
